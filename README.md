@@ -27,9 +27,12 @@ If you'd like to view or edit the website locally, you can follow these steps:
 1. Clone the repository to your local machine:
    
    git clone https://github.com/DwiyahantaEidelS/Flowershop.git
-2. Navigate to the project directory:
+   
+3. Navigate to the project directory:
+   
     cd Flowershop
-3. Open the index.html file in your browser to view the website.
+   
+5. Open the index.html file in your browser to view the website.
 
 ## Contribution
 If you'd like to contribute to this project, please feel free to fork this repository and submit a pull request with the changes you make.
