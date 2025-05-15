@@ -18,7 +18,7 @@ With a responsive design, this website is accessible and easy to use on various 
 
 To access the *Flowershop* website, simply click the link below:
 
-[Flowershop Website](https://dwiyahantaeidels.github.io/Flowershop/)
+[Flowershop Website](https://dwiyashantaeidels.github.io/Flowershop/)
 
 ## Installation
 
